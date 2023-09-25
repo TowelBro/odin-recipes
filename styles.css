@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(16, 16, 16);
+}
+
+.ingredients, .steps, .description {
+    background-color: black;
+    color: #AB966F;
+}
+
+.ingredients {
+    font-size: 24px;
+}
+
+.steps {
+    font-size: 20px;
+}
+
+.description {
+    font-size: 30px;
+}
+
+.heading {
+    color: #b4b2b0;
+}
